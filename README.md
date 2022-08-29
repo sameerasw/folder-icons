@@ -7,8 +7,4 @@ If you want the PNG files, [***Here***](https://github.com/sameerasw/folder-icon
 ![Pack 01-Android-v1 1](https://user-images.githubusercontent.com/68902530/186076871-4b8e93cb-6b7f-48be-8fce-db24b4bb58e4.png)
 
 
-Requests are welcome :)
-
-[***Deviantart Submission***](https://www.deviantart.com/54m33r4/gallery/84228814/icon-packs)
-
-[***Telegram Support Group***](https://t.me/tidwib)
+DISCONTINUED
