@@ -5,6 +5,10 @@ If you want the PNG files, [***Here***](https://github.com/sameerasw/folder-icon
 
 [***Download***](https://github.com/sameerasw/folder-icons/releases/latest/)
 
+How to apply?
+[***Windows***](https://t.me/tidwib/81)
+[***Gnome***](https://t.me/tidwib/84)
+
 Pack 01: Android (69)
 ![Pack 01-Android-v1 1](https://user-images.githubusercontent.com/68902530/200163563-7259eb4b-cc40-4e24-aff1-b3727c010847.png)
 
