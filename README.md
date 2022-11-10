@@ -13,79 +13,79 @@ Pack 01: Android (73)
 ![Pack 01-Android-v1 1](https://user-images.githubusercontent.com/68902530/201037956-5d386978-e0c3-439a-950c-356dcb7c60ab.png)
 <details>
   <summary>Android Icons list</summary>
-      A11 .ico
-      a12.ico
-      a121.ico
-      a13.ico
-      adb.ico
-      ancientos.ico
-      android_one.ico
-      app.lco
-      arrow.ico
-      awakenos.ico
-      cherishos.ico
-      corvus.lco
-      crdroid.ico
-      crdroid9.ico
-      disabled.ico
-      dotos.ico
-      drepfest.ico
-      evox.1C0
-      flamegapps.ico
-      gapps.lco
-      gcam.tco
-      havoc.ico
-      lawnchair.ico
-      lawnchair-alt.ico
-      lineage.ico
-      mi a2 lite.ico
-      ml.lco
-      rmcrog.lco
-      mtut.lco
-      MY .ico
-      n7.ico
-      ng.ico
-      nameless.ico
-      nikgapps.ico
-      oneul.vco
-      op6.ico
-      opengapps.ico
-      orangefox vico
-      oxygenos.ico
-      p1 .ico
-      p2.ico
-      p3.ico
-      p,4.ico
-      P5.ico
-      p6+ .ico
-      p7.ico
-      vico
-      paranoid.ico
-      pex .ico
-      phone.ico
-      pixelify.ico
-      PLM.ico
-      PLM-alt.ico
-      popchat.ico
-      popmods.ico
-      popwalls.ico
-      p-plus.ico
-      revanced.ico
-      ricedroid.ico
-      root.ico
-      samsungaco
-      samsung-budget.ico
-      sparkos.ico
-      stex .ico
-      suptnoros.lco
-      syberia alt.ico
-      syberia.ico
-      syberiaos6.ico
-      teamfiles.ico
-      tidwib.ico
-      twrp.ico
-      x3.ico
-      yaap.ico
+-      A11 .ico
+-      a12.ico
+-      a121.ico
+-      a13.ico
+-      adb.ico
+-      ancientos.ico
+-      android_one.ico
+-      app.lco
+-      arrow.ico
+-      awakenos.ico
+-      cherishos.ico
+-      corvus.lco
+-      crdroid.ico
+-      crdroid9.ico
+-      disabled.ico
+-      dotos.ico
+-      drepfest.ico
+-      evox.1C0
+-      flamegapps.ico
+-      gapps.lco
+-      gcam.tco
+-      havoc.ico
+-      lawnchair.ico
+-      lawnchair-alt.ico
+-      lineage.ico
+-      mi a2 lite.ico
+-      ml.lco
+-      rmcrog.lco
+-      mtut.lco
+-      MY .ico
+-      n7.ico
+-      ng.ico
+-      nameless.ico
+-      nikgapps.ico
+-      oneul.vco
+-      op6.ico
+-      opengapps.ico
+-      orangefox vico
+-      oxygenos.ico
+-      p1 .ico
+-      p2.ico
+-      p3.ico
+-      p,4.ico
+-      P5.ico
+-      p6+ .ico
+-      p7.ico
+-      vico
+-      paranoid.ico
+-      pex .ico
+-      phone.ico
+-      pixelify.ico
+-      PLM.ico
+-      PLM-alt.ico
+-      popchat.ico
+-      popmods.ico
+-      popwalls.ico
+-      p-plus.ico
+-      revanced.ico
+-      ricedroid.ico
+-      root.ico
+-      samsungaco
+-      samsung-budget.ico
+-      sparkos.ico
+-      stex .ico
+-      suptnoros.lco
+-      syberia alt.ico
+-      syberia.ico
+-      syberiaos6.ico
+-      teamfiles.ico
+-      tidwib.ico
+-      twrp.ico
+-      x3.ico
+-      yaap.ico
 </details>
 
 Pack 02: PC (86)
