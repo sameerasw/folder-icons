@@ -13,6 +13,7 @@ Pack 01: Android (73)
 ![Pack 01-Android-v1 1](https://user-images.githubusercontent.com/68902530/201037956-5d386978-e0c3-439a-950c-356dcb7c60ab.png)
 <details>
   <summary>Android Icons list</summary>
+ ```
 A11 .ico
 a12.ico
 a121.ico
@@ -86,13 +87,14 @@ tidwib.ico
 twrp.ico
 x3.ico
 yaap.ico
-
+ ```
 </details>
 
 Pack 02: PC (86)
 ![image](https://user-images.githubusercontent.com/68902530/201038064-0d7bf949-c741-4696-a80e-cf129bf71d12.png)
 <details>
   <summary>PC Icons list</summary>
+ ```
 acer.vco
 aeaco
 ahk.ico
@@ -175,11 +177,11 @@ tv.ico
 ubuntu.ico
 vscaco
 w10.ico
-WI 1 vico
+W11 vico
 web.ico
 word.ico
 xd.ico
-
+ ```
 </details>
 
 
