@@ -13,11 +13,11 @@ How to apply?
 [***Drive Icons***](https://t.me/tidwib/344)
 
 Android (73)
-![Pack 01-Android-v1 1](https://user-images.githubusercontent.com/68902530/201037956-5d386978-e0c3-439a-950c-356dcb7c60ab.png)
+![image](https://user-images.githubusercontent.com/68902530/201514681-310fff0c-05bc-4608-99b8-dc8043f796ab.png)
 
 
 PC (86)
-![image](https://user-images.githubusercontent.com/68902530/201038064-0d7bf949-c741-4696-a80e-cf129bf71d12.png)
+![image](https://user-images.githubusercontent.com/68902530/201514652-ecbc421f-2405-4afe-aef6-652c3d3f34d7.png)
 
 
 Drives (16)
