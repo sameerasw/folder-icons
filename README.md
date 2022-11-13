@@ -7,9 +7,9 @@ If you want the PNG files, [***Here***](https://github.com/sameerasw/folder-icon
 
 [***Download***](https://github.com/sameerasw/folder-icons/releases/latest/)
 
-How to apply?
-[***Windows***](https://t.me/tidwib/81)
-[***Gnome***](https://t.me/tidwib/84)
+How to apply?           
+[***Windows***](https://t.me/tidwib/81) | 
+[***Gnome***](https://t.me/tidwib/84) | 
 [***Drive Icons***](https://t.me/tidwib/344)
 
 Android (73)
