@@ -21,4 +21,4 @@ PC (86)
 
 
 Drives (16)
-![devient2 2](https://user-images.githubusercontent.com/68902530/201514139-682745a1-9f76-4781-a169-c025bf153952.png)
+![image](https://user-images.githubusercontent.com/68902530/201514580-2605b753-b992-43f0-b38f-c46156ac1edb.png)
