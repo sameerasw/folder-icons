@@ -10,10 +10,15 @@ If you want the PNG files, [***Here***](https://github.com/sameerasw/folder-icon
 How to apply?
 [***Windows***](https://t.me/tidwib/81)
 [***Gnome***](https://t.me/tidwib/84)
+[***Drive Icons***](https://t.me/tidwib/344)
 
-Pack 01: Android (73)
+Android (73)
 ![Pack 01-Android-v1 1](https://user-images.githubusercontent.com/68902530/201037956-5d386978-e0c3-439a-950c-356dcb7c60ab.png)
 
 
-Pack 02: PC (86)
+PC (86)
 ![image](https://user-images.githubusercontent.com/68902530/201038064-0d7bf949-c741-4696-a80e-cf129bf71d12.png)
+
+
+Drives (16)
+![devient2 2](https://user-images.githubusercontent.com/68902530/201514139-682745a1-9f76-4781-a169-c025bf153952.png)
