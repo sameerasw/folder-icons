@@ -12,13 +12,15 @@ How to apply?
 [***Gnome***](https://t.me/tidwib/84) | 
 [***Drive Icons***](https://t.me/tidwib/344)
 
-Android (73)
-![image](https://user-images.githubusercontent.com/68902530/201514681-310fff0c-05bc-4608-99b8-dc8043f796ab.png)
+Android (81)
+![image](https://user-images.githubusercontent.com/68902530/202669643-98d4185d-e05a-4e54-b14e-af40cf7d08fe.png)
 
 
-PC (86)
-![image](https://user-images.githubusercontent.com/68902530/201514652-ecbc421f-2405-4afe-aef6-652c3d3f34d7.png)
+PC (111)
+![image](https://user-images.githubusercontent.com/68902530/202669718-0e717d47-8680-4cfb-a50c-9f827b1c6b0d.png)
 
 
 Drives (16)
 ![image](https://user-images.githubusercontent.com/68902530/201514580-2605b753-b992-43f0-b38f-c46156ac1edb.png)
+
++ some TV show icons too
