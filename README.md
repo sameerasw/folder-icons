@@ -12,12 +12,12 @@ How to apply?
 [***Gnome***](https://t.me/tidwib/84) | 
 [***Drive Icons***](https://t.me/tidwib/344)
 
-Android (81)
-![image](https://user-images.githubusercontent.com/68902530/202669643-98d4185d-e05a-4e54-b14e-af40cf7d08fe.png)
+Android (84)
+![image](https://user-images.githubusercontent.com/68902530/205484496-12b6099b-e04a-491e-9033-02a928082197.png)
 
 
-PC (111)
-![image](https://user-images.githubusercontent.com/68902530/202669718-0e717d47-8680-4cfb-a50c-9f827b1c6b0d.png)
+PC (115)
+![image](https://user-images.githubusercontent.com/68902530/205484540-86aedc13-91ff-4613-abcd-ddf9563a2c9f.png)
 
 
 Drives (16)
