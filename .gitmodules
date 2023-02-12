@@ -1,0 +1,3 @@
+[submodule "PNG-to-ICO"]
+	path = PNG-to-ICO
+	url = https://github.com/FoxP/PNG-to-ICO.git
