@@ -1,11 +1,9 @@
 # folder-icons (250+)
 ![banner copy](https://github.com/sameerasw/folder-icons/assets/68902530/9b18a31b-c14f-4d68-8bc4-dbe9f70f7a4d)
 
-Folder icons I made in windows 11 style.
-Go to the [***Releases***](https://github.com/sameerasw/folder-icons/releases) to download each release (older releases include full packages)
-If you want the PNG files, [***Here***](https://github.com/sameerasw/folder-icons/tree/main/PNGs) they are. (Not complete). Thanks for 200 stars ⭐
-
-[***Download***](https://github.com/sameerasw/folder-icons/releases/latest/)
+Folder icons I made in windows 11 style. And macOS style too.
+Clone the repo to get all the icons and the .png files :)
+If you want the PNG files, [***Here***](https://github.com/sameerasw/folder-icons/tree/main/PNGs) they are. (Not complete). Thanks for 200+ stars ⭐
 
 ### How to apply?           
 [***Windows***](https://t.me/tidwib/81) | 
