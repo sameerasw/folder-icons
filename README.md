@@ -20,4 +20,3 @@ If you want the PNG files, [***Here***](https://github.com/sameerasw/folder-icon
 ### Drives (16)
 ![image](https://user-images.githubusercontent.com/68902530/201514580-2605b753-b992-43f0-b38f-c46156ac1edb.png)
 
-+ some TV show icons too
