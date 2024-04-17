@@ -284,3 +284,10 @@ windows-10.png
 halo.ico
 predator.png
 ubuntu-studio.png
+amd.png
+vue.png
+sass.png
+php.png
+json.png
+markdown.png
+sql.png
