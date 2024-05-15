@@ -41,7 +41,7 @@ lg.png
 adb.png
 mi-note-7.png
 adobe-animate.png
-.DS_Store
+rhel.png
 Dism++.png
 drepfest.png
 python.png
