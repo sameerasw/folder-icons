@@ -291,3 +291,4 @@ php.png
 json.png
 markdown.png
 sql.png
+infinix.pnginfinix-gt20-pro.png
