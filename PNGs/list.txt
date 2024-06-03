@@ -28,6 +28,7 @@ GSI.png
 ryujinx-emu.png
 Windows-updated-blocker.png
 Revo-uninstaller.png
+courseforge.png
 apex-legends.png
 popmods.png
 onedrive.png
