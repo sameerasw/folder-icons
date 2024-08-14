@@ -196,7 +196,7 @@ google-pixel3.png
 web.png
 root.png
 intel.png
-fortnight.png
+fortnite.png
 pixel-camera.png
 google-pixel2.png
 hp.png
