@@ -295,3 +295,4 @@ sql.png
 infinix.png
 infinix-gt20-pro.png
 halo.png
+documents.pngdownloads.pngpictures.pngstudy.png
