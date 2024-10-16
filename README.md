@@ -1,7 +1,7 @@
 # folder-icons
 ![banner copy](https://github.com/sameerasw/folder-icons/assets/68902530/9b18a31b-c14f-4d68-8bc4-dbe9f70f7a4d)
 
-Folder icons I made in windows 11 style. Visit my [icon website](https://sameerasw.github.io/icons/windows.html) to browse and download.
+Folder icons I made in windows 11 style. Visit my [icon website](https://www.sameerasw.com/icons/categories) to browse and download.
 
 If you want the PNG files, [***Here***](https://github.com/sameerasw/folder-icons/tree/main/PNGs) they are. (Not complete). Thanks for 300 stars ⭐
 
