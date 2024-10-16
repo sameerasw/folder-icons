@@ -300,3 +300,4 @@ downloads.png
 documents.png
 pictures.png
 s23u.png
+Vagrant.png
