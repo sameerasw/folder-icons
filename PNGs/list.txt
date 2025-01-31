@@ -301,4 +301,5 @@ downloads.png
 documents.png
 pictures.png
 s23u.png
+Xbox-one.png
 Vagrant.png
