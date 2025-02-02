@@ -21,6 +21,7 @@ code.png
 snes.png
 garuda-linux.png
 ps3.png
+youtube.png
 twrp.png
 surface.png
 ps2.png
@@ -32,12 +33,14 @@ courseforge.png
 apex-legends.png
 popmods.png
 onedrive.png
+heart.png
 nvidia.png
 android-text.png
 Kaspersky.png
 google-pixel-fold.png
 forza-horizon.png
 lg.png
+heart-pulse.png
 8).png
 adb.png
 mi-note-7.png
