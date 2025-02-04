@@ -135,6 +135,7 @@ vscode.png
 backup.png
 nintendo-3ds.png
 supirioros.png
+audacity.png
 samsung-galaxy-m02.png
 disabled.png
 font.png
@@ -147,6 +148,7 @@ radeon.png
 oneplus-6.png
 nikon.png
 apple.png
+davinci.png
 google-pixel7.png
 lumion.png
 logitech.png
@@ -175,6 +177,7 @@ stex.png
 diablo-4.png
 evga.png
 ms-edge.png
+reddit.png
 rainbow-six.png
 html.png
 ea.png
@@ -185,6 +188,7 @@ adobe-substance3d.png
 Vita3K-emu.png
 videos.png
 rog.png
+twitter.png
 opera.png
 adobe-premiere-pro.png
 discord.png
@@ -220,6 +224,7 @@ grounded.png
 mi-note-10-pro.png
 elden-ring.png
 mi-note-9.png
+x.png
 asus.png
 dreamcast.png
 android-12.png
