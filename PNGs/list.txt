@@ -20,6 +20,7 @@ awakenos.png
 code.png
 snes.png
 garuda-linux.png
+cobalt.tools.png
 ps3.png
 youtube.png
 twrp.png
@@ -45,6 +46,7 @@ heart-pulse.png
 adb.png
 mi-note-7.png
 adobe-animate.png
+sound.ico
 rhel.png
 Dism++.png
 drepfest.png
