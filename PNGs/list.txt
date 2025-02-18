@@ -40,6 +40,7 @@ fitgirl-repacks.png
 onedrive.png
 heart.png
 nvidia.png
+windows-8.1.png
 android-text.png
 Kaspersky.png
 google-pixel-fold.png
@@ -90,6 +91,7 @@ resident-evil.png
 bit.png
 lawnchair-alt.png
 gopro.png
+windows-alt01.png
 google-pixel3a.png
 adobe-dreamweaver.png
 adobe-creative-cloud.png
@@ -117,6 +119,7 @@ f1.png
 kde-connect.png
 user.png
 samsung.png
+windows-alt02.png
 flight-simulator.png
 adobe-express.png
 linux.png
@@ -149,6 +152,7 @@ disabled.png
 font.png
 firefox.png
 user2.png
+windows-vista.png
 fiverr.png
 adobe-acrobat.png
 adobe-lightroom.png
