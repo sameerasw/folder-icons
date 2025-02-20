@@ -1,0 +1,28 @@
+name: Update PNG List
+
+on:
+  push:
+    paths:
+      - 'PNGs/*.png'
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Update list.txt
+      run: |
+        ls PNGs/*.png > PNGs/list.txt
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add PNGs/list.txt
+        git commit -m 'Update list.txt with new PNG files'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
