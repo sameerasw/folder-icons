@@ -21,3 +21,6 @@ If you want the PNG files, [***Here***](https://github.com/sameerasw/folder-icon
 ![image](https://user-images.githubusercontent.com/68902530/201514580-2605b753-b992-43f0-b38f-c46156ac1edb.png)
 
 >Update the [list.txt](https://github.com/sameerasw/folder-icons/blob/main/PNGs/list.txt) to update the index and add them to the website
+
+> If you are contributing icons, Please make sure to provide both the .ico and the .png files of the same icon in the same naming format located in each respected directory making the automated process of adding to the icon website easy and flawless :)
+And thank you <3
