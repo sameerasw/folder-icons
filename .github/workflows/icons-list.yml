@@ -15,13 +15,13 @@ jobs:
 
     - name: Update list.txt
       run: |
-        ls PNGs/*.png > PNGs/list.txt
+        find pngs -name '*.png' -exec basename {} \; > PNGs/list.txt
 
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add PNGs/list.txt
+        git add pngs/list.txt
         git commit -m 'Update list.txt with new PNG files'
         git push
       env:
