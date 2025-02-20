@@ -13,7 +13,7 @@ jobs:
 
     - name: Update list.txt
       run: |
-        find PNGs -name '*.png' -exec basename {} \; > PNGs/list.txt
+        find PNGs -maxdepth 1 -name '*.png' -exec basename {} \; > PNGs/list.txt
 
     - name: Commit and push changes
       run: |
