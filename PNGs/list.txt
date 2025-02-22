@@ -5,6 +5,7 @@ voltageos.png
 java.png
 ryzen.png
 ps3.png
+pokemon.png
 amd.png
 myanimelist.png
 font.png
@@ -175,6 +176,7 @@ retroarch.png
 audacity.png
 videos.png
 Cemu-emu.png
+zelda.png
 Xbox-one.png
 google-drive.png
 rog.png
@@ -247,6 +249,7 @@ android-one.png
 gapps.png
 windows-95.png
 windows-3.1.png
+earthbound.png
 vscode.png
 android-12.png
 obs-studio.png
@@ -255,6 +258,7 @@ google-pixel-fold.png
 adobe-lightroom-classic.png
 elden-ring.png
 tv-shows.png
+kirby.png
 8).png
 web.png
 Europa-Universalis-4.png
@@ -282,6 +286,7 @@ Hwinfo.png
 modern-warfare-2.png
 telegram.png
 pictures.png
+mario.png
 ps2.png
 apex-legends.png
 viz.png
