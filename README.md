@@ -24,3 +24,6 @@ If you want the PNG files, [***Here***](https://github.com/sameerasw/folder-icon
 
 > If you are contributing icons, Please make sure to provide both the .ico and the .png files of the same icon in the same naming format located in each respected directory making the automated process of adding to the icon website easy and flawless :)
 And thank you <3
+
+<!-- ICONS_GRID_START -->
+<!-- ICONS_GRID_END -->
