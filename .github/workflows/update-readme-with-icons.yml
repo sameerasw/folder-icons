@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'PNGs/**'
+  workflow_dispatch:
 
 jobs:
   update-readme:
