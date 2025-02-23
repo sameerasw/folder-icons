@@ -101,6 +101,7 @@ microsoft-365-new.png
 copyq.png
 cobalt.tools.png
 adobe-substance3d.png
+ps4.png
 numpad-macros.png
 ea.png
 terminal.png
@@ -135,10 +136,13 @@ gnome-web.png
 havoc.png
 gigabyte.png
 google-pixel4.png
+ps5.png
+wii-u-alt01.png
 safari.png
 ps1.png
 opera.png
 linux-mint.png
+wii-u.png
 gitlab.png
 bit.png
 fitgirl-repacks.png
