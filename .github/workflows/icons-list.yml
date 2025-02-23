@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'PNGs/*.png'
+  workflow_dispatch:
 
 jobs:
   update-list:
