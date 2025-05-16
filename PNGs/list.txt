@@ -25,6 +25,7 @@ flight-simulator.png
 google-pixel4.png
 obs-studio.png
 heart-pulse.png
+hirez.png
 yaap.png
 google-pixel8pro.png
 naruto-japanese-cuisine.png
@@ -186,6 +187,7 @@ x.png
 apple.png
 zelda.png
 more.png
+paladins.png
 adobe-lightroom.png
 tools.png
 Hwinfo.png
@@ -211,6 +213,7 @@ google-pixel3.png
 nintendo-3ds.png
 Europa-Universalis-4.png
 gog.png
+smite2-alt.png
 ps4.png
 youtube.png
 pictures.png
@@ -267,6 +270,7 @@ hp.png
 windows-8.1.png
 PLM.png
 halo.png
+smite.png
 blockbench.png
 centos.png
 linux.png
@@ -298,6 +302,7 @@ nzxt.png
 ahk.png
 garuda-linux-dragonized.png
 adobe-illustrator.png
+smite2.png
 vscode.png
 discord.png
 bit.png
