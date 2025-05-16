@@ -303,3 +303,4 @@ pictures.png
 s23u.png
 Xbox-one.png
 Vagrant.png
+google-2025.png
