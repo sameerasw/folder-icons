@@ -345,8 +345,6 @@ sass.png
 yaap.png
 wii-u-alt01.png
 sims.png
-moonrepo-moon.png
-moonrepo-proto.png
 google-pixel3.png
 adobe-audition.png
 pixel-camera.png
