@@ -1,4 +1,5 @@
 # folder-icons
+
 ![banner copy](https://github.com/sameerasw/folder-icons/assets/68902530/9b18a31b-c14f-4d68-8bc4-dbe9f70f7a4d)
 
 Folder icons I made in windows 11 style. Visit my [icon website](https://www.sameerasw.com/icons/categories) to browse and download.
@@ -11,20 +12,23 @@ Folder icons I made in windows 11 style. Visit my [icon website](https://www.sam
  </picture>
 </a>
 
-If you want the PNG files, [***Here***](https://github.com/sameerasw/folder-icons/tree/main/PNGs) they are. (Not complete). Thanks for 500+ stars ⭐
+If you want the PNG files, [**_Here_**](https://github.com/sameerasw/folder-icons/tree/main/PNGs) they are. (Not complete). Thanks for 800+ stars ⭐
 
-### How to apply?           
-[***Windows***](https://t.me/tidwib/81) | 
-[***Gnome***](https://t.me/tidwib/84) | 
-[***Drive Icons***](https://t.me/tidwib/344)
+### How to apply?
+
+[**_Windows_**](https://t.me/tidwib/81) |
+[**_Gnome_**](https://t.me/tidwib/84) |
+[**_Drive Icons_**](https://t.me/tidwib/344)
 
 ### macOS icons?
+
 [sameerasw/mac-icons](https://github.com/sameerasw/mac-icons)
 
 > If you are contributing icons, Please make sure to provide both the .ico and the .png files of the same icon in the same naming format located in each respected directory making the automated process of adding to the icon website easy and flawless :)
-And thank you <3
+> And thank you <3
 
 <!-- ICONS_GRID_START -->
+
 <img src="/PNGs/warzone.png" width="50" height="50"> <img src="/PNGs/games-alt.png" width="50" height="50"> <img src="/PNGs/syberiaos.png" width="50" height="50"> <img src="/PNGs/google-pixel2.png" width="50" height="50"> <img src="/PNGs/wii.png" width="50" height="50"> <img src="/PNGs/snes.png" width="50" height="50"> <img src="/PNGs/docker.png" width="50" height="50"> <img src="/PNGs/disabled.png" width="50" height="50"> <img src="/PNGs/sims.png" width="50" height="50"> <img src="/PNGs/adobe-creative-cloud.png" width="50" height="50">
 <img src="/PNGs/rog.png" width="50" height="50"> <img src="/PNGs/mGBA-emu.png" width="50" height="50"> <img src="/PNGs/ps1.png" width="50" height="50"> <img src="/PNGs/crunchyroll.png" width="50" height="50"> <img src="/PNGs/adobe-premiere-pro.png" width="50" height="50"> <img src="/PNGs/ai.png" width="50" height="50"> <img src="/PNGs/twitter.png" width="50" height="50"> <img src="/PNGs/bitbucket.png" width="50" height="50"> <img src="/PNGs/fedora.png" width="50" height="50"> <img src="/PNGs/windows-alt01.png" width="50" height="50">
 <img src="/PNGs/deepin.png" width="50" height="50"> <img src="/PNGs/oneplus-6.png" width="50" height="50"> <img src="/PNGs/gopher.png" width="50" height="50"> <img src="/PNGs/obsidian.png" width="50" height="50"> <img src="/PNGs/intel.png" width="50" height="50"> <img src="/PNGs/Hwinfo.png" width="50" height="50"> <img src="/PNGs/design.png" width="50" height="50"> <img src="/PNGs/adobe-express.png" width="50" height="50"> <img src="/PNGs/radeon.png" width="50" height="50"> <img src="/PNGs/samsung-galaxy-m02.png" width="50" height="50">
@@ -64,4 +68,5 @@ And thank you <3
 <img src="/PNGs/vscode.png" width="50" height="50"> <img src="/PNGs/pixelbuilds.png" width="50" height="50"> <img src="/PNGs/auto-cad.png" width="50" height="50"> <img src="/PNGs/pokemon.png" width="50" height="50"> <img src="/PNGs/awakenos.png" width="50" height="50"> <img src="/PNGs/work.png" width="50" height="50"> <img src="/PNGs/ahk.png" width="50" height="50"> <img src="/PNGs/music.png" width="50" height="50"> <img src="/PNGs/apple-alt.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-deepin.png" width="50" height="50">
 <img src="/PNGs/drive_icons/drive-retroarch.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-minecraft.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-centos.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-zorin.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-garuda-linux-dragonized.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-kubuntu.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-linux-mint.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-pictures.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-gentoo.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-arch.png" width="50" height="50">
 <img src="/PNGs/drive_icons/drive-open-suse.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-music.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-coding.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-ubuntu-studio.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-backups.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-manjaro.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-fedora.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-videos.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-kde-connect.png" width="50" height="50"> <img src="/PNGs/drive_icons/drive-garuda-linux.png" width="50" height="50">
+
 <!-- ICONS_GRID_END -->
