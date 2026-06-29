@@ -252,6 +252,7 @@ ubuntu.png
 voltageos.png
 nikgapps.png
 open-ai.png
+google-pixel9pro.png
 discord.png
 linux-mint.png
 adobe-premiere-pro.png
