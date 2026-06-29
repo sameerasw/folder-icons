@@ -368,6 +368,7 @@ adb.png
 wii-u-alt01.png
 smite2-alt.png
 music.png
+google-pixel9pro.png
 dotos.png
 courseforge.png
 arch.png
