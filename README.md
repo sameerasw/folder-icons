@@ -16,9 +16,15 @@ If you want the PNG files, [**_Here_**](https://github.com/sameerasw/folder-icon
 
 ### How to apply?
 
-[**_Windows_**](https://t.me/tidwib/81) |
-[**_Gnome_**](https://t.me/tidwib/84) |
+<details>
+   <summary><h3>Windows</h3></summary>
+ <video src="https://github.com/user-attachments/assets/0d7122d9-9955-42c1-8da9-deeaf91b2eea"/>
+</details>
+
+[**_Gnome_**](https://t.me/tidwib/84)
+
 [**_Drive Icons_**](https://t.me/tidwib/344)
+
 
 ### macOS icons?
 
